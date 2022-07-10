@@ -2,7 +2,7 @@
 
 <h2> About me:</h2>
 
-I am a self-proclaimed nerd, who enjoys learning about computers and the human brain, besides creating fun tech related art experiments. 
+I am a self-proclaimed nerd, who enjoys learning about computers and the human brain, besides creating content. 
 
 - 🔭 I’m currently working on my graduate thesis on a model of predictive allostasis.
 - 🌱 I’m currently learning Machine Learning.
