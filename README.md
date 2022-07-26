@@ -2,11 +2,10 @@
 
 <h2> About me:</h2>
 
-I am a self-proclaimed nerd, who enjoys learning about computers and the human brain, besides creating content. 
+I am a self-proclaimed nerd, who enjoys learning about computers and the human brain, besides creating content. I have a wide range of interests I am willing to explore, all of them at the intersection of psychology, human sciences and technology.
 
-- 🔭 I’m currently working on my graduate thesis on a model of predictive allostasis.
-- 🌱 I’m currently learning Machine Learning.
-- 👯 I’m looking to collaborate on computational neuroscience projects or any brain related research.
+- 🌱 I’m currently learning Data Science.
+- 👯 I’m looking to collaborate on research projects.
 - 😄 Pronouns: She/her
 
 </div>
