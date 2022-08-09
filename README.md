@@ -2,11 +2,10 @@
 
 <h2> About me:</h2>
 
-I am a self-proclaimed nerd, who enjoys learning about computers and the human brain, besides creating content. I have a wide range of interests I am willing to explore, all of them at the intersection of psychology, human sciences and technology.
+I am a self-proclaimed nerd, who enjoys learning almost about everything, but with a prevalent interest in the intersection of psychology, human sciences and technology, mainly AI.
 
-- 🌱 I’m currently learning Data Science.
-- 👯 I’m looking to collaborate on research projects.
-- 😄 Pronouns: She/her
+I am thrilled about doing research and writing about it.
+You can find my humble attempt of doing science communication :point_right: here.  
 
 </div>
 
