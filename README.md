@@ -5,7 +5,7 @@
 I am a self-proclaimed nerd, who enjoys learning almost about everything, but with a prevalent interest in the intersection of psychology, human sciences and technology, mainly AI.
 
 I am thrilled about doing research and writing about it.
-You can find my humble attempt of doing science communication :point_right: here.  
+
 
 </div>
 
