@@ -2,9 +2,9 @@
 
 <h2> About me:</h2>
 
-I am a self-proclaimed nerd, who enjoys learning almost about everything, but with a prevalent interest in the intersection of psychology, human sciences and technology, mainly AI.
+I am a self-proclaimed nerd, who enjoys learning almost about everything, but with a prevalent interest in the intersection of psychology, human sciences and technology.
 
-I am thrilled about doing research and writing about it.
+I am thrilled about doing research and writing.
 
 
 </div>
