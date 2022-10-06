@@ -24,3 +24,4 @@ I am thrilled about creating things, doing research and writing.
 <h2>Connect with me!</h2>
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/valeriacastiblanco) 
+</div>
