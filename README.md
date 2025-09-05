@@ -2,10 +2,9 @@
 
 <h2> About me:</h2>
 
-I am a self-proclaimed nerd, who enjoys learning about a wide range of topics, but with a prevalent interest in the intersection of psychology and technology. I happen also to be a mixed-methods researcher by training and 
+I am a self-proclaimed nerd, who enjoys learning about a wide range of topics, but with a prevalent interest in the intersection of psychology and technology. I do mixed-methods research on a variety of topics, but mostly around behavioral science, consumer behavior and consumer-experiences, you can find some of my projects with the stats and code below. :)
 
-I am thrilled about creating things, doing research and writing.
-
+Feel free to reach out, there is my Linkedin profile!
 
 </div>
 
